@@ -31,5 +31,5 @@ printf(" ");
 
 printf("\n");
 
-retuen (0);
+return (0);
 }
