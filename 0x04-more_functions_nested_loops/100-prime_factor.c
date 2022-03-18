@@ -15,7 +15,7 @@ a = 612852475143;
 for (b = 2; b < a; b++)
 {
 while (a % b == 0)
-b = b / a;
+a = a / b;
 }
 
 printf("%lu\n", a);
