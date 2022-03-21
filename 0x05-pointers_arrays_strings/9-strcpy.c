@@ -3,7 +3,7 @@
 /**
  * _strcpy - copies the string pointed to by src
  * @dest: Pointer to char to be changed.
- * #src: Poiter to char to be changed.
+ * @src: Poiter to char to be changed.
  * Return: dest
  */
 
